@@ -10,7 +10,7 @@
 <br>
 <h2 align="left">:computer: Languages and Tools</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,github,git,figma,vscode&perline=14" />
   </a>
