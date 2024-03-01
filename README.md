@@ -3,12 +3,14 @@
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 26px> 
 </h1>
 
-🌱 I’m a  **Front-End Developer**
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<p>💻 I’m a  <b>Front-End Developer</b> </p>
+<p>⚛️ I primarily use React to develop solutions that combine functionality and logic with a visually appealing and user-friendly experience.</p>
+
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 <br>
-<h2 align="left">:computer: Languages and Tools</h2>
+<h2 align="left">⚙️ Languages and Tools</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
