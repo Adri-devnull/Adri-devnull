@@ -29,20 +29,8 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Adri-devnull&theme=dark" alt="Adri-devnull" /></p>
 <br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
+<hr width="20%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/adribermejo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
 </p>
-<br>
-------
-
-<!--icons and links-->
-<p align="center">
-
-  
-</p>
-
-
-
-[AdriDevnull](https://github.com/Adri-devnull)
