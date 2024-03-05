@@ -8,7 +8,6 @@
 
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-
 <br>
 <h2 align="left">⚙️ Languages and Tools</h2>
 
@@ -17,9 +16,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,github,git,figma,vscode&perline=14" />
   </a>
 </p>
-
-
-<hr width="36%" >
 
 <h3>My GitHub Stats</h3>
 
@@ -41,8 +37,6 @@
 
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
-
 ------
 
 <!--icons and links-->
