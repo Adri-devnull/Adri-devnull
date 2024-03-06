@@ -24,7 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adri-devnull&show_icons=true&theme=dark&locale=en&layout=compact" alt="Adri-devnull" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Adri-devnull&show_icons=true&theme=dark&locale=en" alt="Adri-devnull" /></p>
+ <img alt="Adri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Adri-devnull&show_icons=true&theme=radical">
 <br><br><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Adri-devnull&theme=dark" alt="Adri-devnull" /></p>
