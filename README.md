@@ -27,7 +27,7 @@ H𝓲, I'𝓶 𝓐d𝓻𝓲
 <br />
 
 <!--GITHUB STATS TABLE--> 
-<h1 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" align= "center"><b> Github Stats </b></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" align= "center"><b> Gɪᴛʜᴜʙ Sᴛᴀᴛs </b></h1>
 
 <table width="100%">
   <tr>
@@ -61,7 +61,7 @@ H𝓲, I'𝓶 𝓐d𝓻𝓲
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Adri-devnull/paddle-connect-final-project">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Adri-devnull&repo=paddle-connect-final-project&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Adri-devnull&repo=paddle-connect-final-project&theme=nightowl&show_owner=true" alt="Paddle connect project" />
         </a>
       </p>
     </td>
@@ -70,40 +70,19 @@ H𝓲, I'𝓶 𝓐d𝓻𝓲
 <br />
 
 <!--CONTRIBUTION GRAPH-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">📈Ｃᴏɴᴛʀɪʙᴜᴛɪᴏɴ Ｇʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adri-devnull&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
----
-
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
 <!--CONTACT SECTION--> 
-<h3 align="center" >Connect with me 🤝 </h3>
+<h3 align="center" >Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ🌐 </h3>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="https://">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-		<a style="margin-left: 10px;" target="_blank" href="">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="">
-					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
-      </div>
-
+        <a target="_blank" href="https://www.linkedin.com/in/adribermejo">
+	<img width="45px" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Adri-devnull">
+	<img  width="45px" src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+</div>
 </p>
 
