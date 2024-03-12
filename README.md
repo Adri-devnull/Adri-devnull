@@ -9,7 +9,7 @@ H𝓲, I'𝓶 𝓐d𝓻𝓲
 
 <br>
 <!--START INTRO-->               
-<p>💻 I’m a <b>Front-End Developer</b> </p>
+<p>💻 I’m a full-stack developer<b> currently focused on the frontend. </b> </p>
 <p>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity. </p>
 <p>⚛️ I primarily use React to develop solutions that combine functionality and logic with a visually appealing and user-friendly experience.</p>
 <p>✨ The most important things: clean code and understanding the 'why' behind things.</p>
